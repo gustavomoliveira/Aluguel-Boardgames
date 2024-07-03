@@ -16,7 +16,3 @@ function alterarStatus(id) {
         botao.innerHTML = "Devolver";
     }
 }
-
-function quantidadeAlugada() {
-    
-}
